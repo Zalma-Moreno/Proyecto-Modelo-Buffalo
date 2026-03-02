@@ -39,4 +39,3 @@ El proyecto documenta cómo diferentes técnicas de optimización impactan el re
 1. Clona este repositorio:
    ```bash
    git clone [[https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)](https://github.com/Zalma-Moreno/Proyecto-Modelo-Buffalo.git)
-   cd tu-repositorio
